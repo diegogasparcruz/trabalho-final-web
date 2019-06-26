@@ -1,4 +1,6 @@
-# Atividade Final da Disciplida de Desenvolvimento para WEB-2019.1 - UFC Campus Quixadá
+# Web2019.1 UFC - deliveryApp
+
+Atividade Final da Disciplida de Desenvolvimento para WEB-2019.1 - UFC Campus Quixadá
 
 Necessário:
 - Em application.properties alterar nome do banco de dados, usuário e senha.
